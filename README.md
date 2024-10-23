@@ -7,4 +7,4 @@ It leverages threading for asynchronous requests, enabling smooth integration wi
 
 This addon requires the following addons:
 
-    ofxSimpleRestAPI
+[ofxSimpleRestAPI](https://github.com/azuremous/ofxSimpleRestAPI)
